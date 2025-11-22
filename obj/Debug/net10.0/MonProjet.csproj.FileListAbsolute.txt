@@ -1,0 +1,15 @@
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.AssemblyInfoInputs.cache
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.AssemblyInfo.cs
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.csproj.CoreCompileInputs.cache
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.sourcelink.json
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/bin/Debug/net10.0/MonProjet
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/bin/Debug/net10.0/MonProjet.deps.json
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/bin/Debug/net10.0/MonProjet.runtimeconfig.json
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/bin/Debug/net10.0/MonProjet.dll
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/bin/Debug/net10.0/MonProjet.pdb
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.dll
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/refint/MonProjet.dll
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.pdb
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/MonProjet.genruntimeconfig.cache
+/Users/engenouadje/Desktop/Bureau/Projets Scolaires/MonProjet/obj/Debug/net10.0/ref/MonProjet.dll
