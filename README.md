@@ -82,7 +82,7 @@ Example:
 123456789;Dupont;Jean;1980-05-15;123 Rue A;jean@test.com;0612345678;Paris;1500.50
 ```
 
-## Organigramme de l'Entreprise
+## Company organizational chart
 
 The TransConnect company is structured as follows:
 
