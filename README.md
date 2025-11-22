@@ -16,7 +16,7 @@ TransConnect is a console application for managing a transportation company deve
 - Sort clients by purchase amount
 - Automatic save to CSV file
 
-### 👥 Employee Management
+### Employee Management
 - Visualize company organizational chart
 - Add new employees
 - Remove employees
